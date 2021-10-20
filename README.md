@@ -1,5 +1,5 @@
 # ProyectoMetrolineaRutes
 
-<img src="./poster.jpg" />
+<img src="./banner.png" />
  VIDEO (YOUTUBE)
  https://youtu.be/vQOfOx-ATIA
